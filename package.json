@@ -38,9 +38,9 @@
     "ember-cli-moment-shim": "3.5.0",
     "ember-cli-node-assets": "0.2.2",
     "ember-invoke-action": "^1.4.0",
-    "fullcalendar": "^3.6.0",
-    "fullcalendar-scheduler": "^1.8.0",
-    "fastboot-transform": "^0.1.2"
+    "fastboot-transform": "^0.1.2",
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-scheduler": "^1.9.4"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.5.0",
